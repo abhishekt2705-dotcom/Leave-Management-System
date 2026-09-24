@@ -1,0 +1,22 @@
+# Java & Maven
+target/
+*.class
+*.jar
+*.war
+*.ear
+*.log
+
+# Node & Frontend
+node_modules/
+dist/
+dist-ssr/
+*.local
+
+# IDEs & Editor configs
+.idea/
+*.iml
+.vscode/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db
